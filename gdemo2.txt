@@ -1,0 +1,17 @@
+Prerequisites
+Before we begin, make sure you have the following:
+1.	Visual Studio Code (VS Code): If you don’t have it installed, you can download it here.
+2.	Git: Git is a version control system necessary for working with GitHub. You can download it from https://git-scm.com/.
+3.	A GitHub Account: You need a GitHub account to create and store repositories. You can create one at https://github.com/.
+
+
+
+Sequence
+
+git init
+git add .      
+git commit -m "-----------"
+git remote add origin URL
+git push -u origin master
+
+
